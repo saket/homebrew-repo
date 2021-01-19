@@ -1,8 +1,9 @@
 class Startship < Formula
   desc "Automate releasing of staged artifacts on Sonatype Nexus"
   homepage "https://github.com/saket/startship"
-  url "https://github.com/saket/startship/releases/download/v1.0.0/startship.zip"
-  sha256 "3042b101e6ffeea838af0a0ba983474fbfd2320e13af31c38ebeda40cebef5ec"
+  url "https://github.com/saket/startship/releases/download/1.1.0/startship.zip"
+  version "1.1.0"
+  sha256 "9849b9ef8b2c303bee20750650d911f2aec21cfff5a2e35f9840ea2cc1503463"
 
   bottle :unneeded
 
