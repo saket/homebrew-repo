@@ -5,8 +5,6 @@ class Startship < Formula
   version "1.1.1"
   sha256 "be4cd615ee5f4c0792ffea45baed2a7894fd79c5b4b91b05a1c895b4ef27359d"
 
-  bottle :unneeded
-
   depends_on "openjdk"
 
   def install
