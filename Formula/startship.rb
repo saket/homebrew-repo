@@ -1,9 +1,9 @@
 class Startship < Formula
   desc "Automate releasing of staged artifacts on Sonatype Nexus"
   homepage "https://github.com/saket/startship"
-  url "https://github.com/saket/startship/releases/download/1.1.1/startship.zip"
-  version "1.1.1"
-  sha256 "be4cd615ee5f4c0792ffea45baed2a7894fd79c5b4b91b05a1c895b4ef27359d"
+  url "https://github.com/saket/startship/releases/download/1.2.0/startship.zip"
+  version "1.2.0"
+  sha256 "948cb696a799d0b29d4e6ac4dad0c9f5430210652c2224127ef8e0428a70ea90"
 
   depends_on "openjdk"
 
