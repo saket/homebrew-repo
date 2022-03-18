@@ -10,7 +10,7 @@ class Unfurl < Formula
   def install
     rm_f Dir["bin/*.bat"]
     libexec.install %w[bin lib]
-    (bin/"unfurl").write_env_script libexec/"bin/unfurl",
+    (bin/"unfurl").write_env_script libexec/"bin/cli",
       :JAVA_HOME => "${JAVA_HOME:-#{Formula["openjdk"].opt_prefix}}"
   end
 
