@@ -2,8 +2,8 @@ class Unfurl < Formula
   desc "Generate preview of links, inspired by Slack"
   homepage "https://github.com/saket/unfurl"
   url "https://github.com/saket/unfurl/releases/download/1.7.0/cli.zip"
-  version "1.7.0"
-  sha256 "1f98ee695912fd2e40a99ed14310fc51ec250d4c201bcfe5b7b7d1f27b4995c5"
+  version "1.7.1"
+  sha256 "71636b79070aa7f85cb5077458722af39b73ebd1549a8a98485882228409a1c8"
 
   depends_on "openjdk"
 
