@@ -3,7 +3,7 @@ class Unfurl < Formula
   homepage "https://github.com/saket/unfurl"
   url "https://github.com/saket/unfurl/releases/download/1.7.0/unfurl-cli.zip"
   version "1.7.0"
-  sha256 "a78f873ce3c261695bdae37caac9b5a49b52b3366111b7d35411eebd4b17b397"
+  sha256 "1f98ee695912fd2e40a99ed14310fc51ec250d4c201bcfe5b7b7d1f27b4995c5"
 
   depends_on "openjdk"
 
